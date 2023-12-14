@@ -12,5 +12,6 @@ that can be easily modified out
 - Download the full repo
 - install playsound via pip
 - run numbersstation.py and it will ask you what you want to send you can give it anything inluding full URLs with specail characters
+- The script will convert the input text to base64 and then started broadcasting it, Base64 will allow you to send Images/Files/Text/Links
 - It will automatically start playing the numbers station and display the running message very 3 minutes
 
